@@ -45,5 +45,5 @@ Decrypt a file:The tool reads the encrypted file and processes the data in chunk
 1. The key length is invalid (not 16 or 32 bytes).
 2. The --key or --generate-key options are not used correctly.
 3. Any file operation (read/write) fails.
-For now currently working on updating the Code... Feel Free to Add more features to the code and update the code fully....
+* For now currently working on updating the Code... Feel Free to Add more features to the code and update the code fully....
 
